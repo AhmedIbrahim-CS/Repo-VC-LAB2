@@ -1,0 +1,1 @@
+print("VC-LAB2")
